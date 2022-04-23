@@ -8,7 +8,7 @@ I am a Jr. Software Developer and Android Application Developer. I love to Solve
 * 🌍  I'm based in India
 * 🧠  I'm learning Android
 * 🤝  I'm open to collaborating on Android Development
-* ⚡  I'm secretly DarkLaand... but don't tell anyone
+* ⚡  I'm secretly Hacker... but don't tell anyone
 
 ### Skills
 
